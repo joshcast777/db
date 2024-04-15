@@ -1,0 +1,373 @@
+﻿OBJETOS;NOMBRE DEL OBJETO;MÓDULO;NOMBRE DEL MÓDULO;ESSU
+B0000122;Post To F0902;0;Prog codif productos/sistema;ESU JL18946
+B0001026;Retrieve Job Cost Constants;0;Prog codif productos/sistema;ESU JL18946
+B1700280;Format and Edit Time;0;Prog codif productos/sistema;ESU JL18379
+B4000350;Retrieve Distribution AAI;0;Prog codif productos/sistema;ESU  JL20702
+D0000122;Post To F0902;0;Prog codif productos/sistema;ESU JL18946
+D0001026;Retrieve Job Cost Constants;0;Prog codif productos/sistema;ESU JL18946
+N4002371;F4096 Build Flexible Account with Cache;0;Prog codif productos/sistema;ESU  JL19248
+P40296;Flexible Sales Accounting;0;Prog codif productos/sistema;ESU JL18379
+P40950;Distribution AAIs;0;Prog codif productos/sistema;ESU JL18379
+P48201;Work With Work Orders;0;Prog codif productos/sistema;ESU JL18379
+R00993;Create F43199 Commitment Audit Trail;0;Prog codif productos/sistema;ESU  JL20702
+T40950;Distribution AAIs;0;Prog codif productos/sistema;ESU JL18379
+B0900143;Delete F0911 Records;9;Contabilidad;ESU JL18946
+R09801;General Ledger Post;9;"Contabilidad ";ESU JL18946
+D1300640;Fetch Hours Worked From F06116;13;Admón de planta y equipo;ESU  JL20702
+D1300650;Fetch Hours Worked From F0618;13;Admón de planta y equipo;ESU  JL20702
+N1300640;Fetch Hours Worked From F06116;13;Admón de planta y equipo;ESU  JL20702
+N1300650;Fetch Hours Worked From F0618;13;Admón de planta y equipo;ESU  JL20702
+P13714;CAM - Manage Equipment Work Orders;13;Admón de planta y equipo;ESU JL18379
+P13730;CAM - Manage Work Order Parts;13;Admón de planta y equipo;ESU  JL20702
+R13800;Update W.O. Actual Amounts;13;Admón de planta y equipo;ESU  JL20702
+V4801JC;Work Order Parts List F4801/F3111;13;Admón de planta y equipo;ESU  JL19248
+B1702750;SWM Advanced Pricing Labor Edits;17;Admón de servicios al cliente;ESU JL18379
+B1703140;Retrieve P17732 Processing Options;17;Admón de servicios al cliente;ESU JL18379
+D1701590;Update Customer Information Parts & Routings;17;Admón de servicios al cliente;ESU JL18379
+D1703140;Retrieve P17732 Processing Options;17;Admón de servicios al cliente;ESU JL18379
+F3111Z2;Warranty Claim/Supplier Recovery processing;17;Admón de servicios al cliente;ESU JL18379
+F4801Z2;Warranty Claim/Supplier Recovery processing;17;Admón de servicios al cliente;ESU JL18379
+N1700400;F31171 Process Master Data;17;Admón de servicios al cliente;ESU JL18379
+N1701590;Update Customer Information - Parts & Routings;17;Admón de servicios al cliente;ESU JL18379
+P17714;Work Order Revisions;17;Admón de servicios al cliente;ESU JL18379
+P17730;Work Order Parts Detail;17;Admón de servicios al cliente;ESU JL18379
+P17732;Work Order Labor Detail;17;Admón de servicios al cliente;ESU JL18379
+P17767;Failure Analysis;17;Admón de servicios al cliente;ESU JL18379
+T17730;Work Order Parts Detail;17;Admón de servicios al cliente;ESU JL18379
+B3003081;Find and Load BOM Revision Level;30;Admón de datos del producto;ESU  JL20702
+B3003090;F3002 Load Next BOM Level;30;Admón de datos del producto;ESU  JL20702
+D3003081;Find and Load BOM Revision Level;30;Admón de datos del producto;ESU  JL20702
+F30UI014;BOM Header Work File for BI;30;Admón de datos del producto;ESU  JL20702
+F30UI015;BOM Item Fact Work File for BI;30;Admón de datos del producto;ESU  JL20702
+F30UI016;BOM Explosion Work File for BI;30;Admón de datos del producto;ESU  JL20702
+R30461;Multi Level BOM Explosion for BI;30;Admón de datos del producto;ESU  JL20702
+B3100670;Allocate By Location;31;Control de planta;ESU JL18379
+B3100680;Allocate By Lot Number / Lot Expiration Date;31;Control de planta;ESU JL18379
+B3100770;Work Order Completions MBF;31;Control de planta;ESU JL18379
+B3101130;CacheCalculateIssueQuantity;31;Control de planta;ESU JL18379
+B3101250;F3112 Work Order Routings Master Business Function;31;Control de planta;ESU  JL20702
+B3101260;F3111 Parts List Master Business Function;31;Control de planta;ESU  JL20702
+B3101570;Cache Co/By Product Completion;31;Control de planta;ESU  JL19248
+B3101600;Cache Parts List;31;Control de planta;ESU JL18379
+B3101630;F3102 Variance Cache;31;Control de planta;ESU  JL20702
+B3102080;Co_By Completions MBF;31;Control de planta;ESU  JL19248
+B3102270;Work Order Issues Master Business Function;31;Control de planta;ESU  JL20702
+B3102380;Work Order Routing Puchase Order Source File;31;Control de planta;ESU  JL20702
+B3103120;SO Detail Cache;31;Control de planta;ESU JL18379
+B3104480;Kanban Transfer Order Processing;31;Control de planta;ESU  JL19248
+B3105510;Get Last CPNB for MFG Order;31;Control de planta;ESU  JL19248
+D3101130;Cache, Calculate Issue Quantity;31;Control de planta;ESU JL18379
+D3101250C;F3112EditDoc;31;Control de planta;ESU  JL20702
+D3101250D;F3112EndDoc;31;Control de planta;ESU  JL20702
+D3101250E;F3112RetrieveCacheRow;31;Control de planta;ESU JL18379
+D3101570;Cache Co/By Product Completion;31;Control de planta;ESU  JL19248
+D3101600;Cache,Parts List;31;Control de planta;ESU JL18379
+D3101850A;Kanban Purchase Order Entry Process;31;Control de planta;ESU  JL19248
+D3101860A;Kanban Confirm Shipment;31;Control de planta;ESU  JL19248
+D3102150;Completed Item Cost Calculation;31;Control de planta;ESU JL18379
+D3102160;Calculate Extra Costs;31;Control de planta;ESU JL18379
+D3102170;F3102 Calculate Material Costs;31;Control de planta;ESU  JL20702
+D3102180;Calculate Routing Costs;31;Control de planta;ESU  JL20702
+D3102270C;F3111 WO Issues Edit Document;31;Control de planta;ESU JL18379
+D3103030;F3102 File Server Data Structure;31;Control de planta;ESU  JL20702
+D3103060;Revalue Inventory After Actual Cost Calculation;31;Control de planta;ESU  JL20702
+D3104480A;Kanban Transfer Order Processing;31;Control de planta;ESU  JL19248
+N3101610;Cache WO Commitments;31;Control de planta;ESU JL18379
+N3101780;Kanban Processing;31;Control de planta;ESU  JL19248
+N3101850;Kanban Purchase Order Processing;31;Control de planta;ESU  JL19248
+N3101860;Kanban Confirm Shipment;31;Control de planta;ESU  JL19248
+N3102150;Completed Item Cost Calculation;31;Control de planta;ESU  JL20702
+N3102160;Calculate Extra Costs;31;Control de planta;ESU JL18379
+N3102170;F3102 Calculate Material Costs;31;Control de planta;ESU  JL20702
+N3102180;Calculate F3102 Routing Costs;31;Control de planta;ESU  JL20702
+N3103030;F3102 File Server;31;Control de planta;ESU  JL20702
+N3103060;Revalue Inventory After Actual Cost Calculation;31;Control de planta;ESU  JL20702
+P3111;Work Order Parts List;31;Control de planta;ESU JL18379
+P31113;Work Order Inventory Issues;31;Control de planta;ESU  JL20702
+P31114;Work Order Completions;31;Control de planta;ESU  JL19248
+P31115;Co/By Product Completion Window;31;Control de planta;ESU  JL19248
+P31116;Component Scrap;31;Control de planta;ESU JL18379
+P3112;Work Order Routing;31;Control de planta;ESU  JL20702
+P3119;Completions Workbench;31;Control de planta;ESU JL18379
+P3157;Kanban Processing;31;Control de planta;ESU  JL19248
+P3161;Outside Operation Revisions;31;Control de planta;ESU  JL20702
+R31114Z1I;Inventory Completion Inbound Processor;31;Control de planta;ESU  JL19248
+R31410;Order Processing;31;Control de planta;ESU  JL20702
+R31415;Work Order Print;31;Control de planta;ESU JL18379
+R31804;Variance Journal Entries;31;Control de planta;ESU  JL20702
+T31113;Work Order Inventory Issue;31;Control de planta;ESU  JL20702
+T3112;Work Order Routing;31;Control de planta;ESU  JL20702
+T31410;Work Order Generation;31;Control de planta;ESU  JL20702
+T3161;Outside Operation Revisions;31;Control de planta;ESU  JL20702
+T31802A;Manufacturing Journal Entries;31;Control de planta;ESU JL18379
+B3202850;Write Configurator Files At End Doc;32;Admón de configuraciones;ESU  JL19248
+D3200961;Get X Rule Costs For Completions;32;Admón de configuraciones;ESU JL18379
+D3202850;Write Configurator Files For End Doc;32;Admón de configuraciones;ESU  JL19248
+N3200961;Get X Rule Costs For Completions;32;Admón de configuraciones;ESU JL18379
+B3400370;MRP, Write On Hand And Lot Qty To Cache;34;Planificación de necesidades;ESU  JL19248
+B3400390;MRP, Write Sales Order Qty To Cache;34;Planificación de necesidades;ESU  JL19248
+B3400420;MRP, Write Purchase Order Qty To Cache;34;Planificación de necesidades;ESU  JL19248
+B3400440;MRP, Write Work Order Qty Into Cache;34;Planificación de necesidades;ESU  JL19248
+B3400470;MRP, Write Pegging Qty Into Cache;34;Planificación de necesidades;ESU  JL19248
+B3400480;MRP, Write Parts List Qty Into Cache;34;Planificación de necesidades;ESU  JL19248
+B3400500;MRP, Calculate, Plan and Schedule Orders;34;Planificación de necesidades;ESU  JL19248
+B3401360;Process Messages MBF;34;Planificación de necesidades;ESU  JL20702
+B3401720;Cache, Process MRP Lots;34;Planificación de necesidades;ESU  JL19248
+D3400500;MRP, Calculate, Plan and Schedule Orders;34;Planificación de necesidades;ESU  JL19248
+P3411;MRP/MPS Detail Message Revisions;34;Planificación de necesidades;ESU  JL20702
+R3411;MRP/MPS Detail Message Processing;34;Planificación de necesidades;ESU  JL20702
+R3482;MRP/MPS Requirements Planning;34;Planificación de necesidades;ESU  JL19248
+N3800050;F38010 Agreement Search;38;Administración de acuerdos;ESU  JL19248
+B3003130;F30026 Cost Components Cache;40;Inventario/Base OP;ESU JL18379
+B4201310;F4311 Order Integrity;40;Inventario/Base OP;ESU  JL20702
+B4219030;Validate RTE Filter;40;Inventario/Base OP;ESU  JL19248
+D4002540B;F4211 Direct Ship Integrity from Receipts;40;Inventario/Base OP;ESU  JL19423
+D4219030;Validate RTE Filter;40;Inventario/Base OP;ESU  JL19248
+F4231;RT Event Filter Details;40;Inventario/Base OP;ESU  JL19248
+N4002380;Get Header Table Column;40;Inventario/Base OP;ESU  JL19248
+N4002540;F4211 Direct Ship Order Integrity;40;Inventario/Base OP;ESU  JL19423
+N4024005;Fetch, Add, Update and Delete UNSPSC Alternate Description;40;Inventario/Base OP;ESU  JL19248
+P40241D;UNSPSC Code Alternate Description;40;Inventario/Base OP;ESU  JL19248
+P40ITM2;Item Search Returns Quantity;40;Inventario/Base OP;ESU  JL19248
+P42053;Select Multiple Locations;40;Inventario/Base OP;ESU  JL19248
+P4230;Work With RTE Filter;40;Inventario/Base OP;ESU  JL19248
+V4231A;RT Event Filter Details;40;Inventario/Base OP;ESU  JL19248
+B4100380;Cache Multiple Record Return;41;Inventarios;ESU  JL19248
+D4100380A;Load Multiple Return;41;Inventarios;ESU  JL19248
+D4100380B;UnLoad Multiple Return;41;Inventarios;ESU  JL19248
+D4100380C;Delete Cache Memory;41;Inventarios;ESU  JL19248
+DXF41021P;Update Primary Location Qty for OT;41;Inventarios;ESU  JL19423
+P4101;Item Master;41;Inventarios;ESU  JL19248
+XF41021P;Update F41021 Locations For OT Orders;41;Inventarios;ESU  JL19423
+XT4111Z1;Inventory Transactions;41;Inventarios;ESU  JL19248
+B4003100;Invoice Notice Cache Function;42;Ventas;ESU  JL19248
+B4200010;RTE Cache;42;Ventas;ESU  JL19248
+B4200225;Cache, Store and Retrieve Summarized Line Numbers;42;Ventas;ESU  JL19248
+B4200310;Sales Order Entry Master Business Function;42;Ventas;ESU  JL19248
+B4200311;Sales Order Entry Master Business Function;42;Ventas;ESU  JL19248
+B4200380;Inventory Availability And Commitment;42;Ventas;ESU  JL19423
+B4200450;Advanced Sales Order Detail Line Split;42;Ventas;ESU  JL19423
+B4200520;Get Sales AAIs And Call F0911 Edit Line;42;Ventas;ESU  JL19248
+B4200810;Load Or Unload Ship Confirm Cache;42;Ventas;ESU  JL19248
+B4200820;Backorder Release Process Cache;42;Ventas;ESU  JL19423
+B4200850;Preference Calculate Commitments;42;Ventas;ESU  JL19423
+B4201070;F42UI11 Retrieve/Update Sales Order Detail (WF) Info;42;Ventas;ESU  JL19248
+B4201170;Cancel SO Kit or Configurator Components;42;Ventas;ESU  JL19248
+B4201250;Retrieve Ship Confirm PO Values;42;Ventas;ESU  JL19248
+B4201270;F49211 Maintain Sales Detail Table;42;Ventas;ESU  JL19248
+B4202330;Invoice Notice Real Time Event Notify Function;42;Ventas;ESU  JL19248
+B4205120;Sales Order MBF Calculate Price/Cost;42;Ventas;ESU  JL19248
+B4205130;Get/Set Sales Order MBF Calculate Price/Cost;42;Ventas;ESU  JL19248
+B4205210;Kit Processing, Save Selected Components;42;Ventas;ESU  JL19248
+B4208020;Update Inventory and Sales;42;Ventas;ESU  JL19248
+B4208360;Backorder Release Kit Balancing;42;Ventas;ESU  JL19423
+B4280060;Save AR Header Cache;42;Ventas;ESU  JL19248
+B4280070;Save AR Detail Cache;42;Ventas;ESU  JL19248
+B4280080;Save GL Header Cache;42;Ventas;ESU  JL19248
+B4280090;Save GL Detail Cache;42;Ventas;ESU  JL19248
+B4280100;Retrieve AR GL Information From Cache;42;Ventas;ESU  JL19248
+B4280110;Save AP Header Cache;42;Ventas;ESU  JL19248
+B4280120;Save AP Detail Cache;42;Ventas;ESU  JL19248
+B4280130;Sales Update Rollback Information Cache;42;Ventas;ESU  JL19248
+B4700200;F47107WriteEDIRFQDtlLine;42;Ventas;ESU  JL19248
+D4003100A;Load and Unload Invoice Cache Data Struct;42;Ventas;ESU  JL19248
+D4100380D;Update Multiple Return;42;Ventas;ESU  JL19248
+D42000010;RTE Cache;42;Ventas;ESU  JL19248
+D4200011;Duplicate Event Search;42;Ventas;ESU  JL19248
+D4200225;Cache, Store and Retrieve Summarized Line Numbers;42;Ventas;ESU  JL19248
+D4200310F;F4211 FS Edit Line;42;Ventas;ESU  JL19248
+D4200310G;F4211 FS End Doc;42;Ventas;ESU  JL19248
+D4200310H;F4211 Begin Doc;42;Ventas;ESU  JL19248
+D4200310I;F4211 Clear Work File;42;Ventas;ESU  JL19248
+D4200310J;F4211 FS Edit Line PreProcess;42;Ventas;ESU  JL19248
+D4200450;Advanced Sales Order Detail Line Split;42;Ventas;ESU  JL19423
+D4200810C;Load or Unload Ship Confirm Constants/POCache;42;Ventas;ESU  JL19248
+D4200810D;Ship Confirm Detail Reconciliation Cache;42;Ventas;ESU JL22057
+D4200820;Back Order Release Process Cache;42;Ventas;ESU  JL19423
+D4201070A;F42UI11 Retrieve Sales Order Detail (WF) Info;42;Ventas;ESU  JL19248
+D4201090A;Determine Changed SO Header Values;42;Ventas;ESU  JL19248
+D4201090B;Load Changed SO Header Values;42;Ventas;ESU  JL19248
+D4201250;Retrieve Ship Confirm PO Values Data Structure;42;Ventas;ESU  JL19248
+D4205130C;Get Currency Data Price/Cost;42;Ventas;ESU  JL19248
+D4700200A;F47107 Determine Last Line;42;Ventas;ESU  JL19248
+N4200011;Duplicate Event Search;42;Ventas;ESU  JL19248
+N4200790;Shipment Confirmation;42;Ventas;ESU  JL19248
+N4200860;Backorder Release MBF;42;Ventas;ESU  JL19423
+N4201090;Changed SO Header Values;42;Ventas;ESU  JL19248
+P4205;Shipment Confirmation;42;Ventas;ESU  JL19248
+P420551;Kit Balance Revision;42;Ventas;ESU  JL19248
+P4210;Sales Order Entry;42;Ventas;ESU  JL19248
+P42230;Online Invoice Inquiry;42;Ventas;ESU  JL19248
+P42232;Display Before Accept;42;Ventas;ESU  JL19248
+R42565;Print Invoices;42;Ventas;ESU  JL19248
+R42800;Sales Update;42;Ventas;ESU  JL19248
+T4205;Shipment Confirmation;42;Ventas;ESU  JL19248
+T42800;Sales Update And Report;42;Ventas;ESU  JL19248
+V4211G;Online Invoice SO Detail History Union;42;Ventas;ESU  JL19248
+B4300100;Validate User Defined Fields;43;Compras;ESU  JL19248
+B4300420;F0902 Relieve Commitments;43;Compras;ESU JL18946
+B4300520;Retrieve PO Detail Rows;43;Compras;ESU  JL19248
+B4300690;F43099, Write Routing Ledger Record;43;Compras;ESU  JL20702
+B4301050;F41291 Read/Write Landed Cost Job Numbers;43;Compras;ESU  JL19423
+B4301640;P43291 Retrieve Landed Cost Processing Options;43;Compras;ESU  JL19423
+B4302180;Purchase Order Cache Server;43;Compras;ESU  JL19248
+B4302570;Approvals Fields Constants;43;Compras;ESU  JL19248
+B4305310;Calculate Zero Balance;43;Compras;ESU  JL19423
+B4305610;Update POHeaderCache LineNumber for Blanket Release;43;Compras;ESU  JL19248
+D4300420;Relieve Commitments;43;Compras;ESU JL18946
+D4300520A;ClosePODetailRowsHandle;43;Compras;ESU  JL19248
+D4300690;Receipt Routing Ledger File DS;43;Compras;ESU  JL20702
+D4301640;P43291 Retrieve Landed Cost Processing Options;43;Compras;ESU  JL19423
+D4302180C;Realtime Events Cache Server;43;Compras;ESU  JL19248
+D4305310;Calculate Zero Balance;43;Compras;ESU  JL19423
+D4305610;Update POHeaderCache LineNumber;43;Compras;ESU  JL19248
+D4317030;Is Supplier In Supplier Master - 43;43;Compras;ESU  JL19248
+DX43091;Receipt Routing Initiator;43;Compras;ESU  JL19423
+F4301;Purchase Order Header;43;Compras;ESU JL18379
+N4300410;Determine If Blanket PO Exists;43;Compras;ESU  JL20702
+N4300970;Landed Cost Selection;43;Compras;ESU  JL19423
+N4301390;Changed PO Header Values;43;Compras;ESU  JL19248
+N4301800;Verify or Update Sales Orders when Cross Docked;43;Compras;ESU  JL19423
+N4316020;Copy Multiple Account Distribution;43;Compras;ESU  JL20702
+N4317030;Is Supplier In Supplier Master;43;Compras;ESU  JL19248
+NXT43092;Receipt Routing;43;Compras;ESU  JL20702
+P43060;Blanket Order Release;43;Compras;ESU  JL19248
+P43081;Purchase Order Approvals;43;Compras;ESU  JL19248
+P4310;Purchase Orders;43;Compras;ESU  JL20702
+P43101;Purchase Order Workbench;43;Compras;ESU  JL19248
+P4311Z1;Inbound Batch Puchase Orders;43;Compras;ESU  JL19248
+P4312;PO Receipts;43;Compras;ESU  JL19248
+P4316;Account Distribution Entry;43;Compras;ESU  JL19248
+P43214;Purchase Receipts Inquiry;43;Compras;ESU  JL19423
+P43216;Purchase Blanket Release;43;Compras;ESU  JL20702
+P43250;Receipt Routing Movement and Disposition;43;Compras;ESU  JL19423
+P43253;Routing Disposition;43;Compras;ESU  JL19248
+P43291;Landed Cost Selection;43;Compras;ESU  JL19423
+T43214;Purchase Receipts Inquiry;43;Compras;ESU  JL19423
+T43291;Landed Cost Selection;43;Compras;ESU  JL19423
+V4311P;Purchase Order Detail - Blanket Order Release;43;Compras;ESU  JL19248
+V4311TA;V4311TA - Join F4311T and F4311;43;Compras;ESU  JL20702
+X00COM;Update Commitment Ledger;43;Compras;ESU  JL20702
+X43091;Receipt Routing Initiator;43;Compras;ESU  JL20702
+XT4311Z1;Purchase Order Entry;43;Compras;ESU  JL20702
+XT4311Z2;Purchase Order Entry;43;Compras;ESU  JL20702
+XT4312Z1;Purchase Order Receipts;43;Compras;ESU  JL20702
+XT4312Z2;Purchase Order Receipts;43;Compras;ESU  JL20702
+B4500251;Calculate Receipt Price;45;Fijación avanzada de precios;ESU  JL19423
+B4500541;Cache Process Reprice Cache;45;Fijación avanzada de precios;ESU  JL19248
+B4500542;Process Reprice Adjustments;45;Fijación avanzada de precios;ESU  JL19248
+D4500541A;Cache Process Reprice Cache;45;Fijación avanzada de precios;ESU  JL19248
+D4500542A;Get Reprice Cache Parameters;45;Fijación avanzada de precios;ESU  JL19248
+P4072;Price Adjustment Detail Revisions;45;Fijación avanzada de precios;ESU  JL19248
+R42750;Order and Basket Level Pricing;45;Fijación avanzada de precios;ESU  JL19248
+V4211V;Order and Basket Adjustment;45;Fijación avanzada de precios;ESU  JL19248
+N4601250;F4620 Reconcile Carton Detail;46;Administración de almacenes;ESU JL22057
+R47071;EDI Receiving Advice Edit/Create - Purchasing;47;Comercio electrónico;ESU  JL20702
+R47500;Inbound Transaction Processor;47;Comercio electrónico;ESU JL22057
+B4800210;X4801 Manufacturing Editing Module;48;Proceso órdenes trabajo;ESU JL18379
+B4800220;X4801 Equipment Module;48;Proceso órdenes trabajo;ESU JL18379
+B4803140;Order Type Conversion Table Update;48;Proceso órdenes trabajo;ESU JL18379
+DX4801E;X4801 F4801EditLine Function Parameter;48;Proceso órdenes trabajo;ESU JL18379
+X4801;X4801 Work Order Entry Master Business Function;48;Proceso órdenes trabajo;ESU JL18379
+X4826;F4826 Update Based on WO Activity Rules;48;Proceso órdenes trabajo;ESU  JL20702
+B4200793;Confirmed Shipment Cache Server;49;Administración de transporte;ESU  JL19248
+B4205305;Intransit Accounting Detail Cache;49;Administración de transporte;ESU JL22057
+B49T0850;Kit Parent In OTM;49;Administración de transporte;ESU  JL19248
+D4200793A;Confirmed Shipment Cache DS;49;Administración de transporte;ESU  JL19248
+D4205305A;Intransit Accounting Detail Cache;49;Administración de transporte;ESU JL22057
+D4900180C;Process Order Line for Changes;49;Administración de transporte;ESU JL22057
+D4900180D;Process Order Line Delete;49;Administración de transporte;ESU JL22057
+N4900010;F4215 Add Shipment Detail;49;Administración de transporte;ESU JL22057
+N4900180;Process Order Line;49;Administración de transporte;ESU JL22057
+N4900340;F4941 Change Shipment Information;49;Administración de transporte;ESU JL22057
+N4900720;F4942 Remove and Add Shipment Detail;49;Administración de transporte;ESU JL22057
+V4211R1;Sales Order Details - Inbound Transaction Processor;49;Administración de transporte;ESU JL22057
+D7000350;R42800 - Plug & Play;70;Productos multinacionales;ESU  JL19248
+D7001690;N4300970 - Plug and Play;70;Productos multinacionales;ESU  JL19423
+D7003560;B4000350_PlugAndPlay_N7003560;70;Productos multinacionales;ESU  JL20702
+D7003650;B4200520 - Plug & Play;70;Productos multinacionales;ESU  JL19248
+N7000350;R42800 - Plug & Play;70;Productos multinacionales;ESU  JL19248
+N7000351;R42800 - Process Localization Requirements;70;Productos multinacionales;ESU  JL19248
+N7001690;N4300970 - Plug and Play;70;Productos multinacionales;ESU  JL19423
+N7001691;N4300970 - CS -Process Localization Requirements;70;Productos multinacionales;ESU  JL19423
+N7003560;B4000350_PlugAndPlay_N7003560;70;Productos multinacionales;ESU  JL20702
+N7003561;B4000350_CS_Process_N7003561;70;Productos multinacionales;ESU  JL20702
+N7003650;B4200520 - Plug & Play;70;Productos multinacionales;ESU  JL19248
+N7003651;B4200520 - CS - Process Localization Requirements;70;Productos multinacionales;ESU  JL19248
+N4803270;CAM Parts Availability Check;NULL;Asignación de recursos;ESU JL18379
+B3104170;Work Order Processing;NULL;Contabilidad fabricación;ESU JL18379
+B3104180;Material Issue Processing;NULL;Contabilidad fabricación;ESU JL18379
+B3104190;Shop Floor Processing;NULL;Contabilidad fabricación;ESU JL18379
+B3104200;Co/By Processing;NULL;Contabilidad fabricación;ESU JL18379
+B3104230;Actual Costing Processing;NULL;Contabilidad fabricación;ESU JL18379
+B3104250;Edit Line Processing;NULL;Contabilidad fabricación;ESU JL18379
+B3104280;Manufacturing Journal Entry Cache;NULL;Contabilidad fabricación;ESU JL18379
+B3104290;Manufacturing Journal Entry Error Cache;NULL;Contabilidad fabricación;ESU JL18379
+B3104320;Cache Work Center Costs;NULL;Contabilidad fabricación;ESU JL18379
+D3104170;Work Order Processing;NULL;Contabilidad fabricación;ESU JL18379
+D3104180;Material Issue Processing;NULL;Contabilidad fabricación;ESU JL18379
+D3104190;Shop Floor Processing;NULL;Contabilidad fabricación;ESU JL18379
+D3104250;Edit Line Processing;NULL;Contabilidad fabricación;ESU JL18379
+R31802A;Manufacturing Accounting Journal Entries;NULL;Contabilidad fabricación;ESU JL18379
+B31P0030;F3111 Update and Split Related Parts List;NULL;De ingeniería a la orden;ESU  JL20702
+D31P0520A;Validate Project Work Order Number;NULL;De ingeniería a la orden;ESU  JL20702
+N31P0520;Validate Project Work Order Number;NULL;De ingeniería a la orden;ESU  JL20702
+B34A2400;Get Routing Keys;NULL;Plan y programación avanzadas;ESU  JL20702
+PCW06;Collection Structure Definition;NULL;Administración diseños;ESU  JL19423
+PCW08;Collection Detail;NULL;Administración diseños;ESU  JL19423
+PCW081;Item Collection Detail;NULL;Administración diseños;ESU  JL19423
+PCW082;Collection Detail by Style Item;NULL;Administración diseños;ESU  JL19423
+PCW29;Allocation and Delivery Proposals;NULL;Administración diseños;ESU  JL19423
+B4202320;Sales Order Real Time Event Notification;NULL;Ventas;ESU  JL19248
+B4202420;Sales Order Real Time Event Notification 2;NULL;Ventas;ESU  JL19248
+B4205230;Process Commitment Preferences For SOE;NULL;Ventas;ESU  JL19423
+B4210000;Sales Order Model Public Functions;NULL;Ventas;ESU  JL19248
+B4210010;Create Sales Order Functions;NULL;Ventas;ESU  JL19248
+B4210020;Process Sales Order Header Functions;NULL;Ventas;ESU  JL19248
+B4210030;Process Sales Order Line Functions;NULL;Ventas;ESU  JL19248
+B4210050;Submit Sales Order Functions;NULL;Ventas;ESU  JL19248
+B4210670;S421007A Sales Order Header View Controller;NULL;Ventas;ESU  JL19248
+B4210900;Sales Order Application Controller;NULL;Ventas;ESU  JL19248
+P4004Z;Recurring Orders;NULL;Ventas;ESU  JL19248
+P421001;Sales Order Header Reusable Subform;NULL;Ventas;ESU  JL19248
+P421007;Sales Order Header Reusable Subform;NULL;Ventas;ESU  JL19248
+B4301712;Get P4312 Processing Options;NULL;Compras;ESU  JL20702
+D4301712;P4312 Processing Options;NULL;Compras;ESU  JL20702
+P4314;Voucher Match;NULL;Compras;ESU  JL19248
+P43146;Account Distribution Adjustment;NULL;Compras;ESU  JL19248
+N46L0520;F46L42 Maintain Warehouse Count Transaction;NULL;Matriculación;ESU  JL19248
+B90CD040;Retrieve P90CD018 Processing Options;NULL;Admón de servicios de CRM;ESU JL18379
+D90CD018;CRM Create Purchase Order;NULL;Admón de servicios de CRM;ESU  JL20702
+D90CD026;WO Parts Display;NULL;Admón de servicios de CRM;ESU JL18379
+D90CD026B;Save WO Parts Detail;NULL;Admón de servicios de CRM;ESU  JL20702
+D90CD040;Retrieve P90CD018 Processing Options;NULL;Admón de servicios de CRM;ESU JL18379
+N90CD018;CRM Create Purchase Order;NULL;Admón de servicios de CRM;ESU  JL20702
+N90CD024;W90CD002B - Control Module;NULL;Admón de servicios de CRM;ESU JL18379
+N90CD026;WO Parts Control;NULL;Admón de servicios de CRM;ESU  JL20702
+N90CD028;Work Order Parts Grid Control Module;NULL;Admón de servicios de CRM;ESU  JL20702
+P90CD002;CRM - Manage Service Orders;NULL;Admón de servicios de CRM;ESU JL18379
+P90CD015;CRM - Manage Work Order Parts;NULL;Admón de servicios de CRM;ESU  JL20702
+ND3N1115;dcLINK Interface - Co/By Products Completion Window;NULL;dcLINK (recopilación de datos);ESU  JL19248
+BF311110;Lean Completions Processing;NULL;Transacciones de ajuste;ESU JL18379
+BF311111;Transaction Issues;NULL;Transacciones de ajuste;ESU JL18379
+BF311123;Issue Cardex Interface;NULL;Transacciones de ajuste;ESU JL18379
+BF311151;Routing Transactions Model Functions;NULL;Transacciones de ajuste;ESU JL18379
+BF311155;Transaction Manager;NULL;Transacciones de ajuste;ESU JL18379
+BF311162;Cancel Transactions;NULL;Transacciones de ajuste;ESU JL18379
+BF312000;Lean Accounting - Transaction Processing;NULL;Transacciones de ajuste;ESU JL18379
+BF312010;Lean Accounting - Material Processing;NULL;Transacciones de ajuste;ESU JL18379
+BF312020;Lean Accounting - Shop Floor Processing;NULL;Transacciones de ajuste;ESU JL18379
+BF312050;Lean Accounting - Edit Line Processing;NULL;Transacciones de ajuste;ESU JL18379
+DF311110A;DS for Lean Cardex Processing;NULL;Transacciones de ajuste;ESU JL18379
+DF311111A;Transaction Parts Issue;NULL;Transacciones de ajuste;ESU JL18379
+DF311123B;DS Issue Cardex Interface Finalize;NULL;Transacciones de ajuste;ESU JL18379
+DF311155A;Transaction Manager;NULL;Transacciones de ajuste;ESU JL18379
+DF312000;Lean Accounting - Transaction Processing;NULL;Transacciones de ajuste;ESU JL18379
+DF312010;Lean Accounting - Material Processing;NULL;Transacciones de ajuste;ESU JL18379
+DF312020;Lean Accounting - Shop Floor Processing;NULL;Transacciones de ajuste;ESU JL18379
+DF312050;Lean Accounting - Edit Line Processing;NULL;Transacciones de ajuste;ESU JL18379
+PF31011;Item Completions;NULL;Transacciones de ajuste;ESU JL18379
+RF31011B;Multi-Level Item Completions;NULL;Transacciones de ajuste;ESU JL18379
+RF31200;Lean Acctg - Manufacturing Accounting;NULL;Transacciones de ajuste;ESU JL18379
+TF31011;Item Completions - Processing Option;NULL;Transacciones de ajuste;ESU JL18379
+TF31200;Lean Acctg - Manufacturing Accounting - PO Template;NULL;Transacciones de ajuste;ESU JL18379
